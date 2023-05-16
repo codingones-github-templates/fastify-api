@@ -16,7 +16,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/__OWNER/__REPOSITORY.git"
+    "url": "https://github.com/codingones-github-templates/fastify-api.git"
   },
   "keywords": [
     "__PROJECT",
@@ -56,21 +56,5 @@
     "semantic-release": "^21.0.2",
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4"
-  },
-  "release": {
-    "branches": [
-      "main"
-    ],
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      [
-        "@rimac-technology/semantic-release-ecr",
-        {
-          "buildImage": "docker build . -t __SERVICE",
-          "imageName": "__SERVICE"
-        }
-      ]
-    ]
   }
 }
