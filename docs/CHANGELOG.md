@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/codingones-github-templates/fastify-api/compare/v1.0.0...v1.1.0) (2023-05-17)
+
+
+### Features
+
+* precommit hook for changelog and fail-fast strategy ([#14](https://github.com/codingones-github-templates/fastify-api/issues/14)) ([cc2edbc](https://github.com/codingones-github-templates/fastify-api/commit/cc2edbc084c876b0f9f6fc4abf91ecca4b26391a))
+
 # 1.0.0 (2023-05-17)
 
 ### Features
