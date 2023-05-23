@@ -1,9 +1,3 @@
-# [1.1.0](https://github.com/codingones-github-templates/fastify-api/compare/v1.0.0...v1.1.0) (2023-05-23)
-
-### Features
-
-- prepared placeholder for replacement ([92a2599](https://github.com/codingones-github-templates/fastify-api/commit/92a2599c5ba45f7006d73396505b77499374bc44))
-
 # 1.0.0 (2023-05-22)
 
 ### Features
